@@ -10,6 +10,9 @@ namespace GithubProject
     {
         static void Main(string[] args)
         {
+            int number = 5;
+            Console.WriteLine("Number is {0}", number);
+            Console.ReadKey();  
         }
     }
 }
